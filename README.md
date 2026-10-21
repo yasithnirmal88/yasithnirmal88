@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <img src="./assets/banner.svg" alt="Yasith Nirmal Peiris - Cloud & Full-Stack Engineer Banner" width="100%"/>
 </div>
@@ -78,6 +77,19 @@ $ cat stack.json
   </a>
 </div>
 
+## ✨ Interactive Components
+
+### Contribution Skyline
+A stunning 3D isometric contribution graph that transforms your GitHub activity into an animated skyline. Built with React, TypeScript, and Canvas for smooth performance.
+
+- **Dual View Modes**: Switch between classic 2D heatmap and interactive 3D skyline
+- **Smooth Animations**: Watch bars rise in a wave pattern as it morphs between views
+- **Interactive**: Hover, click, orbit in 3D, and explore with keyboard navigation
+- **Customizable**: Multiple color palettes, themes, and height scaling
+- **Fully Responsive**: Works beautifully on desktop and mobile
+
+> Add `contribution-skyline.tsx` to your `/components/ui` folder for use in React projects. Requires shadcn/ui with Tailwind CSS and TypeScript.
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -118,7 +130,6 @@ I'm always open to interesting projects, collaborations, and opportunities to bu
 <div align="center">
   <i>⚡ "Code to create. Build to impact." ⚡</i>
 </div>
-=======
 ## Hi there 👋
 
 <!--
