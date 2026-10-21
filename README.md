@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./assets/banner.svg" alt="Yasith Nirmal Peiris - Cloud & Full-Stack Engineer Banner" width="100%"/>
 </div>
@@ -117,3 +118,21 @@ I'm always open to interesting projects, collaborations, and opportunities to bu
 <div align="center">
   <i>⚡ "Code to create. Build to impact." ⚡</i>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**yasithnirmal88/yasithnirmal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 40ba93f819ddd6a8c4d0ec9f13a5ed8e84af38bf
